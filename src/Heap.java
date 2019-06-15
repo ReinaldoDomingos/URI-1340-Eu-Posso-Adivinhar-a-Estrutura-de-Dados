@@ -4,53 +4,82 @@ public class Heap<T extends Comparable<T>> {
     ArrayList<NoHeap> lista = new ArrayList<>();
     NoHeap raiz;
 
+
+
     boolean remover() {
-        lista.set(0, lista.get(lista.size() - 1));
+        troca(0,lista.size() - 1);
         lista.remove(lista.size() - 1);
+        descer(0);
+        System.out.println(lista);                
+        return false;
     }
 
-    boolean adicionar(int key) {
+    int adicionar(int key) {
         NoHeap novo = new NoHeap(key);
         if (lista.size() == 0) {
             lista.add(novo);
         } else {
             raiz = novo;
-            lista.set(0, raiz);
+            lista.add(raiz);
+            subir(lista.size()-1);
         }
-        return false;
+        System.out.println(lista);
+        return 0;
     }
 
     void subir(int pos) {
-        int pai = pos / 2;
+        int pai = getPai(pos);
         if (lista.get(pai).getKey() < lista.get(pos).getKey()) {
-            troca(lista.get(pai), lista.get(pos));
-            subir(pai);
-        }
+           troca(pai, pos);
+           subir(pai);
+       }
+   }
+
+   void descer(int pos) {
+    int esq, dir, maior = pos;
+    esq = (pos>0)?(pos+1) * 2 - 1:1;
+    dir = (pos>0)?esq + 1:2;
+    // System.out.println("Filhos: " + lista.get(esq)+" "+lista.get(dir));                
+    if (esq <= lista.size())
+        maior = esq;
+    if (dir <= lista.size() && lista.get(dir).getKey() > lista.get(maior).getKey())
+        maior = dir;
+    if (pos != maior && lista.get(maior).getKey() > lista.get(pos).getKey()) {
+        System.out.println(lista);                
+        System.out.println("["+pos+"]="+lista.get(pos)+
+            " - Maior Filho " + lista.get(maior));                        
+        troca(pos, maior);
+        descer(maior);
     }
+}
 
-    void descer(int pos) {
-        int esq, dir, maior = pos;
-        esq = pos * 2;
-        dir = esq + 1;
+void  troca(Integer pos1, Integer pos2) {
+    NoHeap pai = new NoHeap(lista.get(pos1).getKey());
+    NoHeap filho = new NoHeap(lista.get(pos2).getKey());
 
-        if (esq <= lista.size())
-            maior = esq;
-        if (dir <= lista.size() && lista.get(dir).getKey() > lista.get(maior).getKey())
-            maior = dir;
-        if (pos != maior && lista.get(maior).getKey() > lista.get(pos).getKey()) {
-            troca(lista.get(pos), lista.get(maior));
-            descer(maior);
-        }
-    }
+    System.out.println(pai+"-"+filho);
+    lista.set(pos1,filho);
+    lista.set(pos2,pai);
+}
 
-    private void troca(NoHeap item1, NoHeap item2) {
-        troca(item1.getKey(), item2.getKey());
-    }
+int getPai(int pos){
+    System.out.print("["+pos+"]="+lista.get(pos));
+    if(pos>2)
+        pos/=2;
+    pos=  0;    
+    System.out.println(" - Pai " + lista.get(pos));
+    return pos;
+}
+int getEsquerda(int posPai){
+    return (posPai+1)*2 -1;
+}
 
-    private void troca(Integer item1, Integer item2) {
-        Integer aux = item1;
-        item1 = item2;
-        item2 = aux;
-    }
+int getDireita(int posPai){
+    return (posPai+1)*2;
+}
 
+@Override
+public String toString(){
+    return "" + this.lista;
+}
 }

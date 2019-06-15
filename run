@@ -1,0 +1,5 @@
+cd src
+javac NoHeap.java
+javac Heap.java
+javac Teste.java
+java Teste

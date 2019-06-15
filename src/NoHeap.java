@@ -34,5 +34,9 @@ public class NoHeap {
     public void setEsquerda(NoHeap esquerda) {
         this.esquerda = esquerda;
     }
-
+    
+    @Override
+    public String toString(){
+        return "" + key;
+    }
 }
