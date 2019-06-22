@@ -2,20 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed9d91f1-baf5-4e70-ad0f-88a86458a5a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/teste2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teste3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gtignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gtignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/push" beforeDir="false" afterPath="$PROJECT_DIR$/push" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ListaEncadeada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main$Fila.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main$Heap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main$No.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main$NoHeap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main$NoSimples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main$Pilha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/META-INF/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Fila.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Fila.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Heap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$NoSimples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$NoSimples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Pilha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Pilha.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/No.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src.zip" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,29 +45,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../URI-1030-a-lenda-de-flavious-josephus/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="128" column="11" lean-forward="true" selection-start-line="123" selection-end-line="128" selection-end-column="11" />
+              <folding>
+                <element signature="method#main#0;class#Main#0" />
+                <element signature="method#inserir#0;class#ListaCircular#0;class#Main#0" />
+                <element signature="method#buscaAnterior#0;class#ListaCircular#0;class#Main#0" />
+                <element signature="method#remover#0;class#ListaCircular#0;class#Main#0" />
+                <element signature="method#imprimeIterativo#0;class#ListaCircular#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="494">
+              <caret line="429" column="20" lean-forward="true" selection-start-line="429" selection-start-column="20" selection-end-line="429" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3265#3266#0" expanded="true" />
-                <element signature="e#3303#3304#0" expanded="true" />
-                <element signature="e#3334#3335#0" expanded="true" />
-                <element signature="e#3368#3369#0" expanded="true" />
-                <element signature="e#3421#3422#0" expanded="true" />
-                <element signature="e#3467#3468#0" expanded="true" />
-                <element signature="e#3508#3509#0" expanded="true" />
-                <element signature="e#3546#3547#0" expanded="true" />
-                <element signature="e#3600#3601#0" expanded="true" />
-                <element signature="e#3650#3651#0" expanded="true" />
-                <element signature="e#4643#4644#0" expanded="true" />
-                <element signature="e#4684#4685#0" expanded="true" />
-                <element signature="e#6066#6067#0" expanded="true" />
-                <element signature="e#6107#6108#0" expanded="true" />
-                <element signature="e#8707#8708#0" expanded="true" />
-                <element signature="e#8753#8754#0" expanded="true" />
+                <element signature="method#main#0;class#Main#0" />
+                <element signature="class#No#0;class#Main#0" />
+                <element signature="e#3872#3873#0" expanded="true" />
+                <element signature="e#3910#3911#0" expanded="true" />
+                <element signature="e#3941#3942#0" expanded="true" />
+                <element signature="e#3975#3976#0" expanded="true" />
+                <element signature="e#4021#4022#0" expanded="true" />
+                <element signature="e#4067#4068#0" expanded="true" />
+                <element signature="e#4101#4102#0" expanded="true" />
+                <element signature="e#4139#4140#0" expanded="true" />
+                <element signature="e#4193#4194#0" expanded="true" />
+                <element signature="e#4243#4244#0" expanded="true" />
+                <element signature="class#Fila#0;class#Main#0" />
+                <element signature="method#inserir#0;class#Fila#0;class#Main#0" />
+                <element signature="method#remover#0;class#Fila#0;class#Main#0" />
+                <element signature="method#remover#1;class#Fila#0;class#Main#0" />
+                <element signature="e#5208#5209#0" expanded="true" />
+                <element signature="e#5249#5250#0" expanded="true" />
+                <element signature="method#inserir#0;class#Pilha#0;class#Main#0" />
+                <element signature="method#remover#0;class#Pilha#0;class#Main#0" />
+                <element signature="method#remover#1;class#Pilha#0;class#Main#0" />
+                <element signature="method#toString#0;class#Pilha#0;class#Main#0" />
+                <element signature="method#remover#0;class#Heap#0;class#Main#0" />
+                <element signature="method#remover#1;class#Heap#0;class#Main#0" />
+                <element signature="method#inserir#0;class#Heap#0;class#Main#0" />
+                <element signature="method#subir#0;class#Heap#0;class#Main#0" />
+                <element signature="method#descer#0;class#Heap#0;class#Main#0" />
+                <element signature="method#troca#0;class#Heap#0;class#Main#0" />
+                <element signature="method#getPai#0;class#Heap#0;class#Main#0" />
               </folding>
             </state>
           </provider>
@@ -136,13 +162,20 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>toS</find>
       <find>IN</find>
       <find>P</find>
       <find>isEqual</find>
       <find>list2</find>
       <find>//</find>
       <find>print</find>
+      <find>ins</find>
+      <find>rem</find>
+      <find>Pilha</find>
+      <find>remo</find>
+      <find>heap</find>
+      <find>toS</find>
+      <find>isN</find>
+      <find>isNull(N</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,14 +191,17 @@
         <option value="$PROJECT_DIR$/run" />
         <option value="$PROJECT_DIR$/src/ListaEncadeada.java" />
         <option value="$PROJECT_DIR$/src/Teste.java" />
+        <option value="$PROJECT_DIR$/src/teste3.txt" />
+        <option value="$PROJECT_DIR$/src/teste2.txt" />
+        <option value="$PROJECT_DIR$/../URI-1030-a-lenda-de-flavious-josephus/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-1" />
-    <option name="width" value="1366" />
-    <option name="height" value="364" />
+    <option name="x" value="684" />
+    <option name="width" value="682" />
+    <option name="height" value="727" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -173,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -190,13 +227,18 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -242,14 +284,16 @@
       <workItem from="1560632418286" duration="22560000" />
       <workItem from="1561129676655" duration="275000" />
       <workItem from="1561163552540" duration="10387000" />
+      <workItem from="1561225644994" duration="8364000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35373000" />
+    <option name="totallyTimeSpent" value="43737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" x="513" y="61" width="340" height="604" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -266,7 +310,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3294702" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3294702" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -298,32 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3265#3266#0" expanded="true" />
-            <element signature="e#3303#3304#0" expanded="true" />
-            <element signature="e#3334#3335#0" expanded="true" />
-            <element signature="e#3368#3369#0" expanded="true" />
-            <element signature="e#3421#3422#0" expanded="true" />
-            <element signature="e#3467#3468#0" expanded="true" />
-            <element signature="e#3508#3509#0" expanded="true" />
-            <element signature="e#3546#3547#0" expanded="true" />
-            <element signature="e#3600#3601#0" expanded="true" />
-            <element signature="e#3650#3651#0" expanded="true" />
-            <element signature="e#4643#4644#0" expanded="true" />
-            <element signature="e#4684#4685#0" expanded="true" />
-            <element signature="e#6066#6067#0" expanded="true" />
-            <element signature="e#6107#6108#0" expanded="true" />
-            <element signature="e#8707#8708#0" expanded="true" />
-            <element signature="e#8753#8754#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -363,6 +381,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../URI-1030-a-lenda-de-flavious-josephus/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="128" column="11" lean-forward="true" selection-start-line="123" selection-end-line="128" selection-end-column="11" />
+          <folding>
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="method#inserir#0;class#ListaCircular#0;class#Main#0" />
+            <element signature="method#buscaAnterior#0;class#ListaCircular#0;class#Main#0" />
+            <element signature="method#remover#0;class#ListaCircular#0;class#Main#0" />
+            <element signature="method#imprimeIterativo#0;class#ListaCircular#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="429" column="20" lean-forward="true" selection-start-line="429" selection-start-column="20" selection-end-line="429" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="class#No#0;class#Main#0" />
+            <element signature="e#3872#3873#0" expanded="true" />
+            <element signature="e#3910#3911#0" expanded="true" />
+            <element signature="e#3941#3942#0" expanded="true" />
+            <element signature="e#3975#3976#0" expanded="true" />
+            <element signature="e#4021#4022#0" expanded="true" />
+            <element signature="e#4067#4068#0" expanded="true" />
+            <element signature="e#4101#4102#0" expanded="true" />
+            <element signature="e#4139#4140#0" expanded="true" />
+            <element signature="e#4193#4194#0" expanded="true" />
+            <element signature="e#4243#4244#0" expanded="true" />
+            <element signature="class#Fila#0;class#Main#0" />
+            <element signature="method#inserir#0;class#Fila#0;class#Main#0" />
+            <element signature="method#remover#0;class#Fila#0;class#Main#0" />
+            <element signature="method#remover#1;class#Fila#0;class#Main#0" />
+            <element signature="e#5208#5209#0" expanded="true" />
+            <element signature="e#5249#5250#0" expanded="true" />
+            <element signature="method#inserir#0;class#Pilha#0;class#Main#0" />
+            <element signature="method#remover#0;class#Pilha#0;class#Main#0" />
+            <element signature="method#remover#1;class#Pilha#0;class#Main#0" />
+            <element signature="method#toString#0;class#Pilha#0;class#Main#0" />
+            <element signature="method#remover#0;class#Heap#0;class#Main#0" />
+            <element signature="method#remover#1;class#Heap#0;class#Main#0" />
+            <element signature="method#inserir#0;class#Heap#0;class#Main#0" />
+            <element signature="method#subir#0;class#Heap#0;class#Main#0" />
+            <element signature="method#descer#0;class#Heap#0;class#Main#0" />
+            <element signature="method#troca#0;class#Heap#0;class#Main#0" />
+            <element signature="method#getPai#0;class#Heap#0;class#Main#0" />
+          </folding>
         </state>
       </provider>
     </entry>
