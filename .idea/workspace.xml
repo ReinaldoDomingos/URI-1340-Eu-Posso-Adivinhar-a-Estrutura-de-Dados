@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed9d91f1-baf5-4e70-ad0f-88a86458a5a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/teste2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teste3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gtignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gtignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/META-INF/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Fila.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Fila.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Heap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Heap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$NoSimples.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$NoSimples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$NoSimples.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Pilha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main$Pilha.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/URI-1340-Eu-Posso-Adivinhar-a-Estrutura-de-Dados/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -45,47 +40,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../URI-1030-a-lenda-de-flavious-josephus/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="128" column="11" lean-forward="true" selection-start-line="123" selection-end-line="128" selection-end-column="11" />
-              <folding>
-                <element signature="method#main#0;class#Main#0" />
-                <element signature="method#inserir#0;class#ListaCircular#0;class#Main#0" />
-                <element signature="method#buscaAnterior#0;class#ListaCircular#0;class#Main#0" />
-                <element signature="method#remover#0;class#ListaCircular#0;class#Main#0" />
-                <element signature="method#imprimeIterativo#0;class#ListaCircular#0;class#Main#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="429" column="20" lean-forward="true" selection-start-line="429" selection-start-column="20" selection-end-line="429" selection-end-column="20" />
+            <state relative-caret-position="299">
+              <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#main#0;class#Main#0" />
                 <element signature="class#No#0;class#Main#0" />
-                <element signature="e#3872#3873#0" expanded="true" />
-                <element signature="e#3910#3911#0" expanded="true" />
-                <element signature="e#3941#3942#0" expanded="true" />
-                <element signature="e#3975#3976#0" expanded="true" />
-                <element signature="e#4021#4022#0" expanded="true" />
-                <element signature="e#4067#4068#0" expanded="true" />
-                <element signature="e#4101#4102#0" expanded="true" />
-                <element signature="e#4139#4140#0" expanded="true" />
-                <element signature="e#4193#4194#0" expanded="true" />
-                <element signature="e#4243#4244#0" expanded="true" />
                 <element signature="class#Fila#0;class#Main#0" />
                 <element signature="method#inserir#0;class#Fila#0;class#Main#0" />
                 <element signature="method#remover#0;class#Fila#0;class#Main#0" />
                 <element signature="method#remover#1;class#Fila#0;class#Main#0" />
-                <element signature="e#5208#5209#0" expanded="true" />
-                <element signature="e#5249#5250#0" expanded="true" />
                 <element signature="method#inserir#0;class#Pilha#0;class#Main#0" />
                 <element signature="method#remover#0;class#Pilha#0;class#Main#0" />
                 <element signature="method#remover#1;class#Pilha#0;class#Main#0" />
@@ -98,55 +64,6 @@
                 <element signature="method#troca#0;class#Heap#0;class#Main#0" />
                 <element signature="method#getPai#0;class#Heap#0;class#Main#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Teste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="11" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ListaEncadeada.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/No.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-              <folding>
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gtignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -284,12 +201,12 @@
       <workItem from="1560632418286" duration="22560000" />
       <workItem from="1561129676655" duration="275000" />
       <workItem from="1561163552540" duration="10387000" />
-      <workItem from="1561225644994" duration="8364000" />
+      <workItem from="1561225644994" duration="8473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43737000" />
+    <option name="totallyTimeSpent" value="43846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="728" extended-state="6" />
@@ -345,6 +262,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/teste2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../URI-1030-a-lenda-de-flavious-josephus/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="128" column="11" lean-forward="true" selection-start-line="123" selection-end-line="128" selection-end-column="11" />
+          <folding>
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="method#inserir#0;class#ListaCircular#0;class#Main#0" />
+            <element signature="method#buscaAnterior#0;class#ListaCircular#0;class#Main#0" />
+            <element signature="method#remover#0;class#ListaCircular#0;class#Main#0" />
+            <element signature="method#imprimeIterativo#0;class#ListaCircular#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Teste.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -354,7 +299,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ListaEncadeada.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
+        <state relative-caret-position="524">
           <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
         </state>
       </provider>
@@ -384,58 +329,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste3.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/teste2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../URI-1030-a-lenda-de-flavious-josephus/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="128" column="11" lean-forward="true" selection-start-line="123" selection-end-line="128" selection-end-column="11" />
-          <folding>
-            <element signature="method#main#0;class#Main#0" />
-            <element signature="method#inserir#0;class#ListaCircular#0;class#Main#0" />
-            <element signature="method#buscaAnterior#0;class#ListaCircular#0;class#Main#0" />
-            <element signature="method#remover#0;class#ListaCircular#0;class#Main#0" />
-            <element signature="method#imprimeIterativo#0;class#ListaCircular#0;class#Main#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="429" column="20" lean-forward="true" selection-start-line="429" selection-start-column="20" selection-end-line="429" selection-end-column="20" />
+        <state relative-caret-position="299">
+          <caret line="23" column="74" selection-start-line="23" selection-start-column="74" selection-end-line="23" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#main#0;class#Main#0" />
             <element signature="class#No#0;class#Main#0" />
-            <element signature="e#3872#3873#0" expanded="true" />
-            <element signature="e#3910#3911#0" expanded="true" />
-            <element signature="e#3941#3942#0" expanded="true" />
-            <element signature="e#3975#3976#0" expanded="true" />
-            <element signature="e#4021#4022#0" expanded="true" />
-            <element signature="e#4067#4068#0" expanded="true" />
-            <element signature="e#4101#4102#0" expanded="true" />
-            <element signature="e#4139#4140#0" expanded="true" />
-            <element signature="e#4193#4194#0" expanded="true" />
-            <element signature="e#4243#4244#0" expanded="true" />
             <element signature="class#Fila#0;class#Main#0" />
             <element signature="method#inserir#0;class#Fila#0;class#Main#0" />
             <element signature="method#remover#0;class#Fila#0;class#Main#0" />
             <element signature="method#remover#1;class#Fila#0;class#Main#0" />
-            <element signature="e#5208#5209#0" expanded="true" />
-            <element signature="e#5249#5250#0" expanded="true" />
             <element signature="method#inserir#0;class#Pilha#0;class#Main#0" />
             <element signature="method#remover#0;class#Pilha#0;class#Main#0" />
             <element signature="method#remover#1;class#Pilha#0;class#Main#0" />
